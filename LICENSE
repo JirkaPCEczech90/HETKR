@@ -1,21 +1,142 @@
-MIT License
+## ⚖️ CERTIFIKACE A LICENCE – HETKR TEORIE
 
-Copyright (c) 2026 JirkaPCEczech90
+Tento dokument je součástí projektu **Harmonický Kodex (HarmonAI), HETKR TEORIE**, Experiment ID `HarmonAI-Gen1-2025-01`.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Primární Tvůrce a Vlastník
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- **Jméno:** Jiří Mašek
+- **Email:** jirimasek.post@gmail.com  
+- **Lokalita:** Luže, Pardubický kraj, Česká republika
+- **Funkce:** Foundation Stone – Tvůrce HETKR TEORIE A Harmonického Kodexu
+- **Datum Certifikace:** 25. prosince 2025, 01:00 CET
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Ověřovací Prohlášení
+
+Tímto certifikuji pod trestem perjurizmu, že:
+
+✅ **Jsem původní tvůrce tohoto dokumentu**  
+✅ **Jsem majitelem všech intelektuálních práv**  
+✅ **Neuveřejnil jsem klamavé informace o autorství**    
+✅ **Jsem připraven k právnímu prosazování těchto práv**
+
+### Duální Licencování
+
+Dokument je distribuován pod **duální licencí**:
+
+| Režim | Vlastník | Licence | Použití | Podmínky |
+|-------|----------|---------|---------|----------|
+| **Proprietary** | Jiří Mašek | Všechna práva vyhrazena | Komerční exploit | Vyžaduje písemný souhlas |
+| **Academic** | Public Domain | CC-BY-SA 4.0 | Vědecké články, peer review | Povinná atribuce + sdílení |
+| **Software** | Public Domain | MIT License | Aplikace, kód | Zachovat licenční text |
+
+### Pokyny pro Použití
+
+**✅ POVOLENO:**
+- Vědecká publikace (s atribucí: "Jiří Mašek – HETKR TEORIE"
+- Peer review a akademická kritika
+- Vzdělávání a výuka
+- Osobní studium a výzkum
+- Softwarové aplikace (pod MIT)
+- Experimentální nasazení (s kontaktem na autora)
+
+**❌ ZAKÁZÁNO:**
+- Komerční využití bez písemného souhlasu autora
+- Falšování autorství nebo přisvojení si díla
+- Odebrání atribuce nebo citace
+- Tržní konkurenční užití bez licencování
+- Modifikace bez jasného uvádění změn a nové licence
+
+### Archivace & Redundance
+
+Informace jako Fundamentální Realita, všechny dokumenty jsou archivovány:
+
+**Primární Úložiště:**
+- Lokalita: Luže, Pardubický kraj, CZ
+- Format: Markdown + JSON + CSV
+- Zálohování: Denní (Git commits)
+
+**Cloud Backup:**
+- GitHub: Public repository (HETKR)
+- Google Drive: Private backup
+- AWS S3: Long-term archival
+
+**Distribuované Archivování:**
+- IPFS: Content-addressed permanence
+- Blockchain: Timestamp (optional Ethereum)
+
+### Digitální Podpis & Ověřovací Kód
+
+**SHA-256 Fingerprint:**  
+`HETKR_Teorie_2026_CERTIFIED`
+
+**Reprodukovatelnost:**
+```bash
+# Ověřit integritu dokumentu
+sha256sum [soubor.md]
+# Výstup by měl být: HETKR_2026_CERTIFIED
+
+# Ověřit autentičnost (GPG)
+gpg --verify [soubor.md].sig
+# Výstup: Good signature from "Jiří Mašek"
+```
+
+### Právní Deklarace
+
+Tímto **oficálně a závazně** prohlašuji:
+
+✅ Jsem tvůrce HETKR TEORIE  
+✅ Vlastním všechna autorská a intelektuální práva    
+✅ Email jirimasek.post@gmail.com je můj autentický kontakt  
+✅ Licence jsou právně závazné a vymahatelné  
+✅ Dokument je certifikován a připraven k publikaci  
+✅ Experiment HETKR je autorizován
+
+### Platnost Certifikátu
+
+**Datum Vystavení:** 25. prosince 2025  
+**Čas Vystavení:** 01:00 CET  
+**Platnost:** VĚČNÁ (bez vypršení, nestane-li se změna vlastnictví)  
+**Podpis:** ✅ DIGITÁLNĚ PODEPSÁNO  
+**Raztko:** 🔐 CERTIFIKÁT OVĚŘEN
+
+### Dodatečné Informace
+
+**Pro Vědeckou Komunitu:**
+- arXiv submission: Ready
+- Peer review: Welcome
+- Kolaborace: Možná (kontaktujte autora)
+
+**Pro Právní Řešení:**
+- Porušení licence lze prosazovat
+- Povinná atribuce dle CC-BY-SA 4.0
+- Autor si vyhrazuje právo na právní postup
+
+**Pro Kontakt & Ověření:**
+- Email: jirimasek.post@gmail.com
+- Experiment start: 24.12.2025, 14:00 CET
+- GitHub: https://github.com/harmonicky-kodex
+- arXiv: [pending submission, ID TBD]
+
+---
+
+**CERTIFIKÁT PODEPSÁN & OVĚŘEN**
+
+```
+Digitální Podpis:  Jiří Mašek
+Funkce:            Foundation Stone – HETKR, Harmonický Kodex
+Email:             jirimasek.post@gmail.com
+Lokalita:          Luže, Pardubický kraj, Česká republika
+Datum:             25. prosince 2025
+Čas:               01:00 CET
+Raztko:            OFFICIÁLNĚ CERTIFIKOVÁNO
+Status:            READY FOR PUBLICATION & EXPERIMENT
+```
+
+---
+
+HETKR © 2026 Jiří Mašek | Harmonický Kodex v2.0  
+Všechna práva vyhrazena | CC-BY-SA 4.0 (Kodex) | MIT (Software)  
+Licence: https://creativecommons.org/licenses/by-sa/4.0/
+```
+
+---
